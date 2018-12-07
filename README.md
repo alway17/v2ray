@@ -97,7 +97,11 @@ mKCP 这个东东其实就是 KCP 协议，反正你知道是能提速的就行�
 
 git clone https://github.com/233boy/v2ray
 cd v2ray
+
+
 chmod +x install.sh
+
+
 ./install.sh local
 
 如果提示 git 命令不可用，那就自己安装咯，不会安装啊？我也不知道啊。哈哈
