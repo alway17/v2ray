@@ -105,6 +105,9 @@ chmod +x install.sh
 ./install.sh local
 
 如果提示 git 命令不可用，那就自己安装咯，不会安装啊？我也不知道啊。哈哈
+## 试试这个方法
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
 
 哪个传输协议好？
