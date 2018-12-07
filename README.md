@@ -96,6 +96,8 @@ mKCP 这个东东其实就是 KCP 协议，反正你知道是能提速的就行�
 安装方法，确保你已经 Fork 了脚本，将 233boy 修改成你的 Github 用户名
 
 git clone https://github.com/233boy/v2ray
+
+
 cd v2ray
 
 
